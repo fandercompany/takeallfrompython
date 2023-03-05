@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
+<img src="https://github.com/fandercompany/takeallfrompython/blob/main/logo.png?raw=true" width="300">
 </h1><br>
 
 [![PyPI Downloads](https://img.shields.io/pypi/dm/takeallfrompython.svg?label=PyPI%20downloads)](
